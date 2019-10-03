@@ -1,0 +1,5 @@
+*.ipynb
+apikey.json
+credentials.json
+*.pickle
+

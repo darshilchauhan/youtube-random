@@ -1,5 +1,6 @@
 Python tool that picks random keyword from keywords.json, searches youtube and plays a random video from first n results.
 
+```bash
 usage: run.py [-h][-n numofresults] [-p][-k apikey]
 
 optional arguments:
@@ -10,6 +11,7 @@ number of search results
 -k APIKEY, --apiKey APIKEY
 Youtube api key, store defualt in apikey.json in same
 directory
+```
 
 Store api key in apikey.json as default
 

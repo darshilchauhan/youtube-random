@@ -1,4 +1,4 @@
-Python tool that picks random keyword from keywords.json, searches youtube and plays a random video from first n results.
+A command line interface tool that picks random keyword from keywords.json, searches youtube and plays a random video from first n results.
 
 ```bash
 usage: run.py [-h][-n numofresults] [-p][-k apikey]

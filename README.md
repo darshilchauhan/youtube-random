@@ -14,10 +14,12 @@ directory
 ```
 
 Store api key in apikey.json in the following way to make it default:
+
 ```json
 {
   "key": "<your-api-key>"
 }
+```
 
 Make sure Python's webbrowser library is installed. Try running `python3 -m webbrowser -t www.google.com` to verify.
 If the error says no runnable browser found, or if chrome is not the default browser, run the following commands:

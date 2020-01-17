@@ -9,8 +9,7 @@ optional arguments:
 number of search results
 -p, --printOnly Only print result, do not open link
 -k APIKEY, --apiKey APIKEY
-Youtube api key, store defualt in apikey.json in same
-directory
+Youtube api key, store defualt in apikey.json in same directory
 ```
 
 Store api key in apikey.json in the following way to make it default:
